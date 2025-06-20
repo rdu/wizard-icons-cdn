@@ -1,0 +1,11 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Dübel Körper -->
+  <rect x="10" y="4" width="4" height="12"/>
+  <!-- Spreizflügel links -->
+  <path d="M10 8l-3 2v4l3 2"/>
+  <!-- Spreizflügel rechts -->
+  <path d="M14 8l3 2v4l-3 2"/>
+  <!-- Schraube Andeutung -->
+  <circle cx="12" cy="6" r="1"/>
+  <line x1="12" y1="7" x2="12" y2="14"/>
+</svg>

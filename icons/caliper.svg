@@ -1,0 +1,16 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Hauptbalken -->
+  <rect x="2" y="11" width="20" height="2"/>
+  <!-- Feste Backe links -->
+  <path d="M4 11V7h2v4"/>
+  <path d="M4 13v4h2v-4"/>
+  <!-- Bewegliche Backe -->
+  <path d="M14 11V5h2v6"/>
+  <path d="M14 13v6h2v-6"/>
+  <!-- Skala Markierungen -->
+  <line x1="8" y1="11" x2="8" y2="13"/>
+  <line x1="10" y1="11" x2="10" y2="13"/>
+  <line x1="12" y1="11" x2="12" y2="13"/>
+  <!-- Messobjekt (angedeutet) -->
+  <circle cx="10" cy="9" r="2" stroke-dasharray="2 2"/>
+</svg>
