@@ -1,16 +1,1 @@
-<svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-  <!-- Hauptbalken -->
-  <rect x="2" y="11" width="20" height="2"/>
-  <!-- Feste Backe links -->
-  <path d="M4 11V7h2v4"/>
-  <path d="M4 13v4h2v-4"/>
-  <!-- Bewegliche Backe -->
-  <path d="M14 11V5h2v6"/>
-  <path d="M14 13v6h2v-6"/>
-  <!-- Skala Markierungen -->
-  <line x1="8" y1="11" x2="8" y2="13"/>
-  <line x1="10" y1="11" x2="10" y2="13"/>
-  <line x1="12" y1="11" x2="12" y2="13"/>
-  <!-- Messobjekt (angedeutet) -->
-  <circle cx="10" cy="9" r="2" stroke-dasharray="2 2"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc. --><path d="M.2 468.9C2.7 493.1 23.1 512 48 512l96 0 320 0c26.5 0 48-21.5 48-48l0-96c0-26.5-21.5-48-48-48l-48 0 0 80c0 8.8-7.2 16-16 16s-16-7.2-16-16l0-80-64 0 0 80c0 8.8-7.2 16-16 16s-16-7.2-16-16l0-80-64 0 0 80c0 8.8-7.2 16-16 16s-16-7.2-16-16l0-80-80 0c-8.8 0-16-7.2-16-16s7.2-16 16-16l80 0 0-64-80 0c-8.8 0-16-7.2-16-16s7.2-16 16-16l80 0 0-64-80 0c-8.8 0-16-7.2-16-16s7.2-16 16-16l80 0 0-48c0-26.5-21.5-48-48-48L48 0C21.5 0 0 21.5 0 48L0 368l0 96c0 1.7 .1 3.3 .2 4.9z"/></svg>

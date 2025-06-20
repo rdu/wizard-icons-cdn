@@ -1,11 +1,1 @@
-<svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-  <!-- Kopf -->
-  <ellipse cx="12" cy="6" rx="6" ry="3"/>
-  <!-- Schaft -->
-  <rect x="10" y="6" width="4" height="10"/>
-  <!-- Unterer Wulst -->
-  <ellipse cx="12" cy="16" rx="5" ry="2"/>
-  <!-- Mittellinien -->
-  <line x1="10" y1="9" x2="14" y2="9"/>
-  <line x1="10" y1="13" x2="14" y2="13"/>
-</svg>
+Couldn't find the requested file /svgs/solid/dot-circle.svg in @fortawesome/fontawesome-free.
